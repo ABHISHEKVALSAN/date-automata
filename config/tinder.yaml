@@ -1,0 +1,4 @@
+url: https://tinder.com/app/recs
+like_xpath:
+  - /html/body/div[1]/div/div[1]/div/div/main/div/div/div[1]/div/div[{}]/div/div[4]/button
+  - /html/body/div[1]/div/div[1]/div/div/main/div/div[1]/div/div/div[1]/div/div[{}]/div/div[4]/button
