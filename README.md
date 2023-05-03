@@ -1,5 +1,7 @@
 # date-automata
-To automate dating
+
+Simple python script to automate dating app profiles like using selenium.
+Script is currently only available for tinder.
 
 To run the script:
 
